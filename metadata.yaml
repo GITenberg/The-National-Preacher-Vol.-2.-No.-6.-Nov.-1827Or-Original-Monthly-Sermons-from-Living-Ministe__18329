@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '7949'
     url: http://www.gutenberg.org/2009/agents/7949
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18329#The-National-Preacher-Vol.-2.-No.-6.-Nov.-1827Or-Original-Monthly-Sermons-from-Living-Ministe_
 gutenberg_bookshelf:
 - Christianity
 - The National Preacher
